@@ -1,8 +1,12 @@
 video_library
 =============
 
-A simple software to handle my video library, programmed mainly in C, and using databases (sqlite for now).
+A simple software to handle my video library, programmed mainly in C.
 
-I'm programming it to learn new concepts.
+I'm programming using it to learn new concepts.
 
-I'll try to implement Test Driven Development as I do it, and document the code using Doxygen.
+It will implement / use :
+* Databases (SQLite)
+* Test Driven Development
+* Documentation using Doxygen
+* The Meson Build System
