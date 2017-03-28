@@ -1,5 +1,14 @@
-Compilation instructions
-========================
+# How to build #
+
+## Dependencies ##
+
+Dependencies | Version | Reason
+------------ | -------:| ------
+ncurses      | >= 6.0  | We need it for the CLI
+libyaml      | >= 1.1  | 
+
+
+## Compilation instructions ##
 
 At the root of the project : 
 
