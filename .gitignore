@@ -65,3 +65,8 @@ tramp
 
 # cask packages
 .cask/
+
+# meson build system
+build
+.deps
+src/.deps
